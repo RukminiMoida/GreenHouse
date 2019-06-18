@@ -1,19 +1,19 @@
 <resources>
-    <string name="app_name">TestingApp</string>
+    <string name="app_name">GreenHouse</string>
     <string name="forgot_password">Forgot Password ?</string>
     <string name="next_count_alert">Do you want to change count ?</string>
 
     <string name="error_network">Network connection failed. Please check your internet settings.</string>
     <string name="error_default">Sorry, we are not able to complete your request at this moment. Please try again later.</string>
 
-    <string name="login_prferance">com.PG.testingapp.Utils.login_preference</string>
-    <string name="check_login">com.PG.testingapp.Utils.check_login</string>
-    <string name="emp_id">com.PG.testingapp.Utils.check_emp_id</string>
-    <string name="pond_no">com.PG.testingapp.Utils.check_st_wt_pond_no</string>
-    <string name="farm_loc">com.PG.testingapp.Utils.check_st_wt_farm_location</string>
-    <string name="map_details">com.PG.testingapp.Utils.check_st_wt_map_details</string>
-    <string name="map_latitude">com.PG.testingapp.Utils.check_st_wt_map_latitude</string>
-    <string name="map_longitude">com.PG.testingapp.Utils.check_st_wt_map_longitude</string>
+    <string name="login_prferance">com.PG.GreenHouse.Utils.login_preference</string>
+    <string name="check_login">com.PG.GreenHouse.Utils.check_login</string>
+    <string name="emp_id">com.PG.GreenHouse.Utils.check_emp_id</string>
+    <string name="pond_no">com.PG.GreenHouse.Utils.check_st_wt_pond_no</string>
+    <string name="farm_loc">com.PG.GreenHouse.Utils.check_st_wt_farm_location</string>
+    <string name="map_details">com.PG.GreenHouse.Utils.check_st_wt_map_details</string>
+    <string name="map_latitude">com.PG.GreenHouse.Utils.check_st_wt_map_latitude</string>
+    <string name="map_longitude">com.PG.GreenHouse.Utils.check_st_wt_map_longitude</string>
     <string name="logout">Are you sure you want to logout?</string>
     <string name="upload">please,press ok to upload the records</string>
     <string name="NextLot">Are You sure You want to change the Lot no?</string>
